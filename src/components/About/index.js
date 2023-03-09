@@ -13,7 +13,7 @@ const About = () => (
       <h1 className="home-heading">About</h1>
     </li>
     <li>
-      <p className="para">I love to create! Iam a frontend web developer</p>
+      <p className="para">I love to create! I am a frontend web developer</p>
     </li>
   </ul>
 )
